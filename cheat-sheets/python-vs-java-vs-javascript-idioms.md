@@ -125,4 +125,4 @@ JavaScript is fine for everything except heaps and ordered sets, and those two g
 
 - [The 41 patterns](../patterns/), each with a Python template
 - [Complexity of every structure](complexity-cheat-sheet.md)
-- Worked solutions in six languages, side by side: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public solution references and editors: [NeetCode practice](https://neetcode.io/practice)

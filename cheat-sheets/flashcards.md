@@ -418,4 +418,4 @@ obvious.
 
 - [All 41 patterns, on one page](all-41-patterns.md)
 - [How to recognize the pattern in sixty seconds](recognize-the-pattern.md)
-- Worked solutions in six languages: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public solution references and editors: [NeetCode practice](https://neetcode.io/practice)

@@ -101,4 +101,4 @@ Reverse a Linked List, Reverse a Sub-list, Reverse Every K-element Sub-list, Rev
 ## Go deeper
 
 - This pattern's introduction in the course: [Introduction to In-place Reversal of a Linked List Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-inplace-reversal-of-a-linked-list-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public practice and solution references: [NeetCode](https://neetcode.io/practice/problem-list/linked-list)

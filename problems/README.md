@@ -4,7 +4,7 @@ All 302 problems in [Grokking the Coding Interview](https://www.designgurus.io/c
 
 **Use it backwards.** Reading a problem under its pattern heading teaches you nothing, because the answer is the heading. Pick a problem, cover the section title, and say which pattern you would reach for and which words in the title made you say it. Then check. That gap, between the cue and your answer, is the thing an interview actually measures.
 
-**22 problems have a walkthrough**, linked from the tables below. Each one gives the problem in our own words, the argument for why it belongs to its pattern, the approach and its invariant, the complexity, and the edge cases to say out loud. It stops short of the code. The full worked solutions, in six languages with runnable tests, are in the course.
+**22 problems have a walkthrough**, linked from the tables below. Each one gives the problem in our own words, the argument for why it belongs to its pattern, the approach and its invariant, the complexity, and the edge cases to say out loud. It stops short of the code. Public solution links point to NeetCode where a matching problem exists.
 
 ## Contents
 
@@ -689,5 +689,5 @@ The course keeps a small chapter for problems that do not sit under one pattern.
 
 ## Go deeper
 
-- The full worked solution for every problem here, in six languages, with an editor to attempt it yourself first: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- For public solution references, use [NeetCode practice](https://neetcode.io/practice) and the NeetCode links on individual walkthrough pages.
 - Not sure which pattern a problem needs? [How to recognize the pattern in sixty seconds](../cheat-sheets/recognize-the-pattern.md)

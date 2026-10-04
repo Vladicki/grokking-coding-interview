@@ -69,5 +69,4 @@ has to be flipped back consistently on the way out.
 
 ## The full solution
 
-Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+Public solution and editor on NeetCode: [Find Median from Data Stream](https://neetcode.io/problems/find-median-in-a-data-stream/solution)

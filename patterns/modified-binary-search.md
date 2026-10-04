@@ -98,4 +98,4 @@ Order-agnostic Binary Search, Ceiling of a Number, Next Letter, Number Range, Se
 ## Go deeper
 
 - This pattern's introduction in the course: [Introduction to Modified Binary Search Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-modified-binary-search-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public practice and solution references: [NeetCode](https://neetcode.io/practice/problem-list/binary-search)

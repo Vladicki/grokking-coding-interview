@@ -20,6 +20,7 @@ This repository is the free index, summary, and cheat sheet collection for that 
 - [The patterns](#the-patterns)
 - [The problem index](#the-problem-index)
 - [Cheat sheets](#cheat-sheets)
+- [Expanded companion guide](#expanded-companion-guide)
 - [Glossary](#glossary)
 - [Recommended reading](#recommended-reading)
 - [What is coming next](#what-is-coming-next)
@@ -127,6 +128,10 @@ Read while you prepare:
 - [Python vs Java vs JavaScript idioms](cheat-sheets/python-vs-java-vs-javascript-idioms.md), the same twenty operations in three languages, plus the traps each one sets.
 - [Edge cases checklist](cheat-sheets/edge-cases-checklist.md), by input type.
 - [Flashcards](cheat-sheets/flashcards.md), 103 cards.
+
+## Expanded companion guide
+
+Original expanded study notes live in [expanded/](expanded/): a pattern field guide, worked examples, and recognition drills. Problem walkthrough pages link to public NeetCode solutions where a matching problem exists.
 
 ## Glossary
 

@@ -53,4 +53,4 @@ Six or so representative problem names.
 
 ## Go deeper
 
-- The full pattern, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public practice and solution references: [NeetCode practice](https://neetcode.io/practice)

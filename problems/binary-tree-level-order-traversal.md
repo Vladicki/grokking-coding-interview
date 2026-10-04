@@ -64,5 +64,4 @@ would mix two levels together. That single line is what the problem is testing.
 
 ## The full solution
 
-Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+Public solution and editor on NeetCode: [Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree/solution)

@@ -59,5 +59,4 @@ interviewer raises, and the gap-shrinks-by-one argument answers it.
 
 ## The full solution
 
-Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+Public solution and editor on NeetCode: [Linked List Cycle](https://neetcode.io/problems/linked-list-cycle-detection/solution)

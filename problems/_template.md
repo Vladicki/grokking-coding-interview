@@ -43,5 +43,5 @@ The invariant: the thing that stays true on every iteration.
 
 ## The full solution
 
-Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+If NeetCode has this problem, link its public solution and editor here. Example:
+[NeetCode problem title](https://neetcode.io/problems/problem-slug/solution)

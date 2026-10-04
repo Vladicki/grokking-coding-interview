@@ -71,5 +71,4 @@ also O(N log K) and uses O(1) extra space, and some interviewers prefer it.
 
 ## The full solution
 
-Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+Public solution and editor on NeetCode: [Merge K Sorted Lists](https://neetcode.io/problems/merge-k-sorted-linked-lists/solution)

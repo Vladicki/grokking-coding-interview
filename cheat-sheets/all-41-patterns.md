@@ -512,4 +512,4 @@ These ten cover most of what gets asked in a standard coding round. Read their c
 
 - Work backwards from the problem instead: [how to recognize the pattern in sixty seconds](recognize-the-pattern.md)
 - Every pattern in full: [patterns/](../patterns/)
-- Worked solutions in six languages: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public solution references and editors: [NeetCode practice](https://neetcode.io/practice)

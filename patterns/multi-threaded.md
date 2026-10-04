@@ -110,5 +110,5 @@ Print in Order, Print FooBar Alternately, Print Zero Even Odd, Building H2O, Fiz
 ## Go deeper
 
 - This pattern's introduction in the course: [Introduction to Multi-threaded Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-multithreaded-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public practice and solution references: [NeetCode](https://neetcode.io/practice)
 - Concurrency in depth: [Grokking Multithreading and Concurrency](https://www.designgurus.io/course/grokking-multithreading-and-concurrency-for-coding-interviews)

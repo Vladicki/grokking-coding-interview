@@ -72,5 +72,4 @@ Pruning changes the real runtime enormously and the worst case not at all. Say b
 
 ## The full solution
 
-Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+Public solution and editor on NeetCode: [Word Search](https://neetcode.io/problems/word-search/solution)

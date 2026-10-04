@@ -93,4 +93,4 @@ Binary Tree Path Sum, All Paths for a Sum, Sum of Path Numbers, Path With Given 
 ## Go deeper
 
 - This pattern's introduction in the course: [Introduction to Tree Depth First Search Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-tree-depth-first-search-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public practice and solution references: [NeetCode](https://neetcode.io/practice/problem-list/depth-first-search)

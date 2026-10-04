@@ -70,5 +70,4 @@ The invariant: a task's in-degree is the number of its prerequisites that have n
 
 ## The full solution
 
-Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+Public solution and editor on NeetCode: [Course Schedule](https://neetcode.io/problems/course-schedule/solution)

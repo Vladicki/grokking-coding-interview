@@ -101,5 +101,5 @@ Top K Numbers, Kth Smallest Number, K Closest Points to Origin, Connect Ropes, T
 ## Go deeper
 
 - This pattern's introduction in the course: [Introduction to Top 'K' Elements Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-top-k-elements-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- Public practice and solution references: [NeetCode](https://neetcode.io/practice/problem-list/heap-priority-queue)
 - The heap itself, from scratch: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)

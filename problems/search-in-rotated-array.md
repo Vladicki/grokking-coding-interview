@@ -68,5 +68,4 @@ The invariant: the target, if it exists, is always inside the range from `low` t
 
 ## The full solution
 
-Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+Public solution and editor on NeetCode: [Search in Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array/solution)
